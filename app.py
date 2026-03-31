@@ -270,5 +270,4 @@ def process_authentication_response():
     # value for replay attacks. The precise method for detecting replay attacks is
     # Client specific."
     assert session.get("nonce") == claims_unvalidated.get("nonce")
-    breakpoint()
     return f"<pre>{message}</pre>"
