@@ -1,4 +1,4 @@
-# OIDC walkthtough for ID Token validation based on RFCs
+# OIDC walkthrough for ID Token validation based on RFCs
 
 Taking the RFCs and walking through the steps involved
 for [OpenID Connect Core 1.0](https://openid.net/specs/openid-connect-core-1_0.html)
